@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virat8705
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning c programming
+- 🌱 I’m currently learning data analytics
 - 📫 How to reach me...ping me on instagram @virat_8705
 
 <!---
